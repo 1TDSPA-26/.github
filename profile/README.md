@@ -56,7 +56,8 @@
 
 | Atividade / Desafio | Status | Prazo |
 | :--- | :---: | :---: |
-| Challenge Sprints 1  |  Aberto | 10 / 10 |
+| Challenge Sprints 1  |  ✅ | 10 / 10 |
+| Challenge Sprints 2  |  ✅  | 11/ 11  |
 
 
 </div>
