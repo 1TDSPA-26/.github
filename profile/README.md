@@ -12,12 +12,17 @@
 <h2 align="center">🛠️ | Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css" height="52" alt="CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="52" alt="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="52" alt="HTML" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="52" alt="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="52" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="44" alt="IntelliJ IDEA" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg" height="44" alt="Node-RED" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="44" alt="Oracle" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" height="44" alt="PyCharm" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" height="44" alt="Trello" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VS Code" />
 </p>
 
 ###
