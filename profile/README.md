@@ -71,8 +71,8 @@
 
 <table align="center" width="50%">
   <tr>
-    <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/milton-goya-bab704/" title="Milton Goya"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/milton-goya.jpg" width="64" height="64" alt="Foto de Milton Goya" /><br /><sub><b>Milton<br />Goya</b></sub></a></td>
-    <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/stephanecrf/" title="Stephane Fernandes"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/stephane-fernandes.jpg" width="64" height="64" alt="Foto de Stephane Fernandes" /><br /><sub><b>Stephane<br />Fernandes</b></sub></a></td>
+    <td align="center" height="160"><a href="https://www.linkedin.com/in/milton-goya-bab704/" title="Milton Goya"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/milton-goya.jpg" width="64" height="64" alt="Foto de Milton Goya" /><br /><sub><b>Milton<br />Goya</b></sub></a></td>
+    <td align="center" height="160"><a href="https://www.linkedin.com/in/stephanecrf/" title="Stephane Fernandes"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/stephane-fernandes.jpg" width="64" height="64" alt="Foto de Stephane Fernandes" /><br /><sub><b>Stephane<br />Fernandes</b></sub></a></td>
   </tr>
 </table>
 
