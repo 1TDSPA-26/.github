@@ -67,6 +67,9 @@
     <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/carlos-eduardo-fontoura-bbb013155/" title="Carlos Eduardo Fontoura"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/carlos-fontoura.jpg" width="64" height="64" alt="Foto de Carlos Eduardo Fontoura" /><br /><sub><b>Carlos<br />Fontoura</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/lleonardogr/" title="Leonardo Gasparini"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/leonardo-gasparini.jpg" width="64" height="64" alt="Foto de Leonardo Gasparini" /><br /><sub><b>Leonardo<br />Gasparini</b></sub></a></td>
   </tr>
+</table>
+
+<table align="center" width="320">
   <tr>
     <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/milton-goya-bab704/" title="Milton Goya"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/milton-goya.jpg" width="64" height="64" alt="Foto de Milton Goya" /><br /><sub><b>Milton<br />Goya</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/stephanecrf/" title="Stephane Fernandes"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/stephane-fernandes.jpg" width="64" height="64" alt="Foto de Stephane Fernandes" /><br /><sub><b>Stephane<br />Fernandes</b></sub></a></td>
