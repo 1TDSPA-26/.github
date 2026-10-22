@@ -12,17 +12,7 @@
 <h2 align="center">🛠️ | Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=idea" height="44" alt="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg" height="44" alt="Node-RED" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="44" alt="Oracle" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="44" alt="PyCharm" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" height="44" alt="Trello" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /><img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" /><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg" height="40" alt="Node-RED" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle" /><img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" height="40" alt="Trello" /><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
 </p>
 
 ###
