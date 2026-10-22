@@ -44,7 +44,7 @@
 | Atividade / Desafio | Status | Prazo |
 | :--- | :---: | :---: |
 | Challenge Sprints 1  | ⏰ Prazo encerrado | 10 / 10 |
-| Challenge Sprints 2  |  ✅  | 11/ 11  |
+| Challenge Sprints 2  |  ✅  | 01/ 11  |
 
 
 </div>
