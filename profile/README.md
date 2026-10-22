@@ -62,7 +62,7 @@
 
 <table align="center" width="640">
   <tr>
-    <td align="center" width="160" height="160"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/alfonso-rodriguez.png" width="64" height="64" alt="Foto de Alfonso José Trindade Rodriguez" /><br /><sub><b>Alfonso<br />Rodriguez</b></sub></td>
+    <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/alfonso-rodriguez-45087323/" title="Alfonso José Trindade Rodriguez"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/alfonso-rodriguez.png" width="64" height="64" alt="Foto de Alfonso José Trindade Rodriguez" /><br /><sub><b>Alfonso<br />Rodriguez</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://github.com/alecarlosjesus" title="Alexandre Carlos"><img src="https://github.com/alecarlosjesus.png" width="64" height="64" alt="Foto de Alexandre Carlos" /><br /><sub><b>Alexandre<br />Carlos</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/carlos-eduardo-fontoura-bbb013155/" title="Carlos Eduardo Fontoura"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/carlos-fontoura.jpg" width="64" height="64" alt="Foto de Carlos Eduardo Fontoura" /><br /><sub><b>Carlos<br />Fontoura</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://www.linkedin.com/in/lleonardogr/" title="Leonardo Gasparini"><img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/professores/leonardo-gasparini.jpg" width="64" height="64" alt="Foto de Leonardo Gasparini" /><br /><sub><b>Leonardo<br />Gasparini</b></sub></a></td>
