@@ -130,6 +130,9 @@
     <td align="center" width="160" height="160"><a href="https://github.com/sofiaolivagoliva" title="Sofia Oliveira Gonçalves"><img src="https://github.com/sofiaolivagoliva.png" width="64" height="64" alt="Foto de Sofia Oliveira Gonçalves" /><br /><sub><b>Sofia<br />Gonçalves</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://github.com/freitasfany" title="Stéfany Maria Santana Freitas"><img src="https://github.com/freitasfany.png" width="64" height="64" alt="Foto de Stéfany Maria Santana Freitas" /><br /><sub><b>Stéfany<br />Freitas</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://github.com/Victor0Henrique" title="Victor Henrique Lima Andrade"><img src="https://github.com/Victor0Henrique.png" width="64" height="64" alt="Foto de Victor Henrique Lima Andrade" /><br /><sub><b>Victor<br />Andrade</b></sub></a></td>
+    <td align="center" width="160" height="160"><a href="https://github.com/victor-singrax" title="Victor Sales Marques"><img src="https://github.com/victor-singrax.png" width="64" height="64" alt="Foto de Victor Sales Marques" /><br /><sub><b>Victor<br />Marques</b></sub></a></td>
+  </tr>
+  <tr>
     <td align="center" width="160" height="160"><a href="https://github.com/wilgustavossilva" title="Wilson Gustavo de Sousa Silva"><img src="https://avatars.githubusercontent.com/u/320615708?v=4" width="64" height="64" alt="Foto de Wilson Gustavo de Sousa Silva" /><br /><sub><b>Wilson<br />Silva</b></sub></a></td>
   </tr>
 </table>
