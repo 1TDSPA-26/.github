@@ -7,6 +7,8 @@
 
 <h1 align="center">👋 | Olá turma </h1>
 
+<h4 align="center">Este é o espaço oficial onde centralizaremos todos os códigos, exemplos e materiais de apoio desenvolvidos durante os nossos encontros. O objetivo desta organização é facilitar o acesso de vocês aos recursos práticos da disciplina.</h4>
+
 <h2 align="center">🛠️ | Ferramentas</h2>
 
 <p align="center">
@@ -17,8 +19,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="52" alt="JavaScript" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="52" alt="VS Code" />
 </p>
-
-<h4 align="center">Este é o espaço oficial onde centralizaremos todos os códigos, exemplos e materiais de apoio desenvolvidos durante os nossos encontros. O objetivo desta organização é facilitar o acesso de vocês aos recursos práticos da disciplina.</h4>
 
 ###
 
