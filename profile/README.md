@@ -114,9 +114,8 @@
     <td align="center"><a href="https://github.com/amadordiego168-source"><img style="border-radius: 50%;" src="https://github.com/amadordiego168-source.png" width="60px;"/><br /><sub><b>Diego Amador Limachi Aguilar</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Ribeir0296"><img style="border-radius: 50%;" src="https://github.com/Ribeir0296" width="60px;"/><br /><sub><b>Rafael Madeira Gomes Ribeiro</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ribeir0296"><img style="border-radius: 50%;" src="https://github.com/Ribeir0296.png" width="60px;"/><br /><sub><b>Rafael Madeira Gomes Ribeiro</b></sub></a></td>
     <td align="center"><a href="https://github.com/adryanhernandez"><img style="border-radius: 50%;" src="https://github.com/adryanhernandez.png" width="60px;"/><br /><sub><b>Adryan Hernandez de Souza</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Victor0Henrique"><img style="border-radius: 50%;" src="https://github.com/Victor0Henrique" width="60px;"/><br /><sub><b>Victor Henrique Lima Andrade</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Singrax"><img style="border-radius: 50%;" src="https://github.com/Singrax.png" width="60px;"/><br /><sub><b>Victor Sales Marques</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Victor0Henrique"><img style="border-radius: 50%;" src="https://github.com/Victor0Henrique.png" width="60px;"/><br /><sub><b>Victor Henrique Lima Andrade</b></sub></a></td>
   </tr>
 </table>
