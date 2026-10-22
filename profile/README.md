@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/logo-1tdspa-26.jpg" alt="Logo da turma 1TDSPA-26" width="260" />
+  <img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/banner-1tdspa-26.jpg" alt="Banner da turma 1TDSPA-26 da FIAP" width="100%" />
 </p>
 
 <div align="center">
