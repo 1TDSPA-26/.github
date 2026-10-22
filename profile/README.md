@@ -1,6 +1,10 @@
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1TDSPA-26/.github/main/profile/assets/logo-1tdspa-26.jpg" alt="Logo da turma 1TDSPA-26" width="260" />
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="52" alt="html5 logo" />
   <img width="12" />
@@ -56,7 +60,7 @@
 
 | Atividade / Desafio | Status | Prazo |
 | :--- | :---: | :---: |
-| Challenge Sprints 1  |  ✅ | 10 / 10 |
+| Challenge Sprints 1  | ⏰ Prazo encerrado | 10 / 10 |
 | Challenge Sprints 2  |  ✅  | 11/ 11  |
 
 
