@@ -65,62 +65,66 @@
 
 <h2 align="center">👨‍🏫 | Professor</h2>
 
-<table align="center">
+<table align="center" width="145">
   <tr>
-    <td align="center"><a href="https://github.com/alecarlosjesus"><img style="border-radius: 50%;" src="https://github.com/alecarlosjesus.png" width="60px;"/><br /><sub><b>Alexandre Carlos</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/alecarlosjesus" title="Alexandre Carlos"><img src="https://github.com/alecarlosjesus.png" width="64" height="64" alt="Foto de Alexandre Carlos" /><br /><sub><b>Alexandre<br />Carlos</b></sub></a></td>
   </tr>
 </table>
 
 <h2 align="center">🚀 | Tech Leads</h2>
 
-<table align="center">
+<table align="center" width="580">
   <tr>
-    <td align="center"><a href="https://github.com/gabrielymoreira"><img style="border-radius: 50%;" src="https://github.com/gabrielymoreira.png" width="60px;"/><br /><sub><b>Gabriely Santos Moreira</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Luczin10"><img style="border-radius: 50%;" src="https://github.com/Luczin10.png" width="60px;"/><br /><sub><b>Lucas Gabriel</b></sub></a></td>
-    <td align="center"><a href="https://github.com/redagnolo"><img style="border-radius: 50%;" src="https://github.com/redagnolo.png" width="60px;"/><br /><sub><b>Renato D’agnolo Rodrigues</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ryanjeimysson"><img style="border-radius: 50%;" src="https://github.com/ryanjeimysson.png" width="60px;"/><br /><sub><b>Ryan Jeimysson Matos de Jesus</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/gabrielymoreira" title="Gabriely Santos Moreira"><img src="https://github.com/gabrielymoreira.png" width="64" height="64" alt="Foto de Gabriely Santos Moreira" /><br /><sub><b>Gabriely<br />Moreira</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/Luczin10" title="Lucas Gabriel"><img src="https://github.com/Luczin10.png" width="64" height="64" alt="Foto de Lucas Gabriel" /><br /><sub><b>Lucas<br />Gabriel</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/redagnolo" title="Renato D’agnolo Rodrigues"><img src="https://github.com/redagnolo.png" width="64" height="64" alt="Foto de Renato D’agnolo Rodrigues" /><br /><sub><b>Renato<br />Rodrigues</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/ryanjeimysson" title="Ryan Jeimysson Matos de Jesus"><img src="https://github.com/ryanjeimysson.png" width="64" height="64" alt="Foto de Ryan Jeimysson Matos de Jesus" /><br /><sub><b>Ryan<br />Jesus</b></sub></a></td>
   </tr>
 </table>
 
 <h2 align="center">👥 | Turma</h2>
 
-<table align="center">
+<table align="center" width="580">
   <tr>
-    <td align="center"><a href="https://github.com/adryanhernandez"><img style="border-radius: 50%;" src="https://github.com/adryanhernandez.png" width="60px;"/><br /><sub><b>Adryan Hernandez de Souza</b></sub></a></td>
-    <td align="center"><a href="https://github.com/alvqrw"><img style="border-radius: 50%;" src="https://github.com/alvqrw.png" width="60px;"/><br /><sub><b>Álvaro Samuel Ferreira</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Tapia2005"><img style="border-radius: 50%;" src="https://github.com/Tapia2005.png" width="60px;"/><br /><sub><b>Brayhan Tapia Ribeiro</b></sub></a></td>
-    <td align="center"><a href="https://github.com/BrenoMenezes20"><img style="border-radius: 50%;" src="https://github.com/BrenoMenezes20.png" width="60px;"/><br /><sub><b>Breno Menezes de Macedo</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Cauasena13"><img style="border-radius: 50%;" src="https://github.com/Cauasena13.png" width="60px;"/><br /><sub><b>Cauã Gomes Veiga Sena</b></sub></a></td>
-    <td align="center"><a href="https://github.com/amadordiego168-source"><img style="border-radius: 50%;" src="https://github.com/amadordiego168-source.png" width="60px;"/><br /><sub><b>Diego Amador Limachi Aguilar</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/adryanhernandez" title="Adryan Hernandez de Souza"><img src="https://github.com/adryanhernandez.png" width="64" height="64" alt="Foto de Adryan Hernandez de Souza" /><br /><sub><b>Adryan<br />Souza</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/alvqrw" title="Álvaro Samuel Ferreira"><img src="https://github.com/alvqrw.png" width="64" height="64" alt="Foto de Álvaro Samuel Ferreira" /><br /><sub><b>Álvaro<br />Ferreira</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/Tapia2005" title="Brayhan Tapia Ribeiro"><img src="https://github.com/Tapia2005.png" width="64" height="64" alt="Foto de Brayhan Tapia Ribeiro" /><br /><sub><b>Brayhan<br />Ribeiro</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/BrenoMenezes20" title="Breno Menezes de Macedo"><img src="https://github.com/BrenoMenezes20.png" width="64" height="64" alt="Foto de Breno Menezes de Macedo" /><br /><sub><b>Breno<br />Macedo</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/enriquetrindade"><img style="border-radius: 50%;" src="https://github.com/enriquetrindade.png" width="60px;"/><br /><sub><b>Enrique Trindade Ferreira Silva</b></sub></a></td>
-    <td align="center"><a href="https://github.com/enzxcp"><img style="border-radius: 50%;" src="https://github.com/enzxcp.png" width="60px;"/><br /><sub><b>Enzo de Carvalho Pescuma</b></sub></a></td>
-    <td align="center"><a href="https://github.com/FeRocha14"><img style="border-radius: 50%;" src="https://github.com/FeRocha14.png" width="60px;"/><br /><sub><b>Felipe Rocha Sanches</b></sub></a></td>
-    <td align="center"><a href="https://github.com/felipesnascimento211207"><img style="border-radius: 50%;" src="https://github.com/felipesnascimento211207.png" width="60px;"/><br /><sub><b>Felipe Santos Nascimento</b></sub></a></td>
-    <td align="center"><a href="https://github.com/giovannidcas"><img style="border-radius: 50%;" src="https://github.com/giovannidcas.png" width="60px;"/><br /><sub><b>Giovanni</b></sub></a></td>
-    <td align="center"><a href="https://github.com/isabellyvianachavier"><img style="border-radius: 50%;" src="https://github.com/isabellyvianachavier.png" width="60px;"/><br /><sub><b>Isabelly Viana Chavier Bustamante Sa</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/Cauasena13" title="Cauã Gomes Veiga Sena"><img src="https://github.com/Cauasena13.png" width="64" height="64" alt="Foto de Cauã Gomes Veiga Sena" /><br /><sub><b>Cauã<br />Sena</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/amadordiego168-source" title="Diego Amador Limachi Aguilar"><img src="https://github.com/amadordiego168-source.png" width="64" height="64" alt="Foto de Diego Amador Limachi Aguilar" /><br /><sub><b>Diego<br />Aguilar</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/enriquetrindade" title="Enrique Trindade Ferreira Silva"><img src="https://github.com/enriquetrindade.png" width="64" height="64" alt="Foto de Enrique Trindade Ferreira Silva" /><br /><sub><b>Enrique<br />Silva</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/enzxcp" title="Enzo de Carvalho Pescuma"><img src="https://github.com/enzxcp.png" width="64" height="64" alt="Foto de Enzo de Carvalho Pescuma" /><br /><sub><b>Enzo<br />Pescuma</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Jpatrus"><img style="border-radius: 50%;" src="https://github.com/Jpatrus.png" width="60px;"/><br /><sub><b>João Patrus de Souza Neto</b></sub></a></td>
-    <td align="center"><a href="https://github.com/justinojoao07"><img style="border-radius: 50%;" src="https://github.com/justinojoao07.png" width="60px;"/><br /><sub><b>João Victor Justino Santos de Souza </b></sub></a></td>
-    <td align="center"><a href="https://github.com/JulioSilva101"><img style="border-radius: 50%;" src="https://github.com/JulioSilva101.png" width="60px;"/><br /><sub><b>Julio Bernardes da Silva</b></sub></a></td>
-    <td align="center"><a href="https://github.com/lariavelina"><img style="border-radius: 50%;" src="https://github.com/lariavelina.png" width="60px;"/><br /><sub><b>Larissa Avelina Cerqueira</b></sub></a></td>
-    <td align="center"><a href="https://github.com/LauraLFerres"><img style="border-radius: 50%;" src="https://github.com/LauraLFerres.png" width="60px;"/><br /><sub><b>Laura de Lucena Ferres</b></sub></a></td>
-    <td align="center"><a href="https://github.com/lucasssvc"><img style="border-radius: 50%;" src="https://github.com/lucasssvc.png" width="60px;"/><br /><sub><b>lucas valle chiarello</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/FeRocha14" title="Felipe Rocha Sanches"><img src="https://github.com/FeRocha14.png" width="64" height="64" alt="Foto de Felipe Rocha Sanches" /><br /><sub><b>Felipe<br />Sanches</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/felipesnascimento211207" title="Felipe Santos Nascimento"><img src="https://github.com/felipesnascimento211207.png" width="64" height="64" alt="Foto de Felipe Santos Nascimento" /><br /><sub><b>Felipe<br />Nascimento</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/giovannidcas" title="Giovanni"><img src="https://github.com/giovannidcas.png" width="64" height="64" alt="Foto de Giovanni" /><br /><sub><b>Giovanni</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/isabellyvianachavier" title="Isabelly Viana Chavier Bustamante Sa"><img src="https://github.com/isabellyvianachavier.png" width="64" height="64" alt="Foto de Isabelly Viana Chavier Bustamante Sa" /><br /><sub><b>Isabelly<br />Sa</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/marinasantanaq"><img style="border-radius: 50%;" src="https://github.com/marinasantanaq.png" width="60px;"/><br /><sub><b>Marina Santana Queiroz</b></sub></a></td>
-    <td align="center"><a href="https://github.com/MatheusLira-31"><img style="border-radius: 50%;" src="https://github.com/MatheusLira-31.png" width="60px;"/><br /><sub><b>Matheus lira Castro</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ogsxtra"><img style="border-radius: 50%;" src="https://github.com/ogsxtra.png" width="60px;"/><br /><sub><b>Matheus Setra da Silva</b></sub></a></td>
-    <td align="center"><a href="https://github.com/rafalima1905"><img style="border-radius: 50%;" src="https://github.com/rafalima1905.png" width="60px;"/><br /><sub><b>Rafael Henrique Mascarenhas LIma</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Ribeir0296"><img style="border-radius: 50%;" src="https://github.com/Ribeir0296.png" width="60px;"/><br /><sub><b>Rafael Madeira Gomes Ribeiro</b></sub></a></td>
-    <td align="center"><a href="https://github.com/renanhesz1"><img style="border-radius: 50%;" src="https://github.com/renanhesz1.png" width="60px;"/><br /><sub><b>Renan Hesz Filho</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/Jpatrus" title="João Patrus de Souza Neto"><img src="https://github.com/Jpatrus.png" width="64" height="64" alt="Foto de João Patrus de Souza Neto" /><br /><sub><b>João<br />Neto</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/justinojoao07" title="João Victor Justino Santos de Souza"><img src="https://github.com/justinojoao07.png" width="64" height="64" alt="Foto de João Victor Justino Santos de Souza" /><br /><sub><b>João<br />Souza</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/JulioSilva101" title="Julio Bernardes da Silva"><img src="https://github.com/JulioSilva101.png" width="64" height="64" alt="Foto de Julio Bernardes da Silva" /><br /><sub><b>Julio<br />Silva</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/lariavelina" title="Larissa Avelina Cerqueira"><img src="https://github.com/lariavelina.png" width="64" height="64" alt="Foto de Larissa Avelina Cerqueira" /><br /><sub><b>Larissa<br />Cerqueira</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/sofiaolivagoliva"><img style="border-radius: 50%;" src="https://github.com/sofiaolivagoliva.png" width="60px;"/><br /><sub><b>Sofia Oliveira Gonçalves</b></sub></a></td>
-    <td align="center"><a href="https://github.com/freitasfany"><img style="border-radius: 50%;" src="https://github.com/freitasfany.png" width="60px;"/><br /><sub><b>Stéfany Maria Santana Freitas</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Victor0Henrique"><img style="border-radius: 50%;" src="https://github.com/Victor0Henrique.png" width="60px;"/><br /><sub><b>Victor Henrique Lima Andrade</b></sub></a></td>
-    <td align="center"><a href="https://github.com/wilgustavossilva"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/320615708?v=4" width="60px;"/><br /><sub><b>Wilson Gustavo de Sousa Silva</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/LauraLFerres" title="Laura de Lucena Ferres"><img src="https://github.com/LauraLFerres.png" width="64" height="64" alt="Foto de Laura de Lucena Ferres" /><br /><sub><b>Laura<br />Ferres</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/lucasssvc" title="lucas valle chiarello"><img src="https://github.com/lucasssvc.png" width="64" height="64" alt="Foto de lucas valle chiarello" /><br /><sub><b>lucas<br />chiarello</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/marinasantanaq" title="Marina Santana Queiroz"><img src="https://github.com/marinasantanaq.png" width="64" height="64" alt="Foto de Marina Santana Queiroz" /><br /><sub><b>Marina<br />Queiroz</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/MatheusLira-31" title="Matheus lira Castro"><img src="https://github.com/MatheusLira-31.png" width="64" height="64" alt="Foto de Matheus lira Castro" /><br /><sub><b>Matheus<br />Castro</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="145" height="145"><a href="https://github.com/ogsxtra" title="Matheus Setra da Silva"><img src="https://github.com/ogsxtra.png" width="64" height="64" alt="Foto de Matheus Setra da Silva" /><br /><sub><b>Matheus<br />Silva</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/rafalima1905" title="Rafael Henrique Mascarenhas LIma"><img src="https://github.com/rafalima1905.png" width="64" height="64" alt="Foto de Rafael Henrique Mascarenhas LIma" /><br /><sub><b>Rafael<br />LIma</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/Ribeir0296" title="Rafael Madeira Gomes Ribeiro"><img src="https://github.com/Ribeir0296.png" width="64" height="64" alt="Foto de Rafael Madeira Gomes Ribeiro" /><br /><sub><b>Rafael<br />Ribeiro</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/renanhesz1" title="Renan Hesz Filho"><img src="https://github.com/renanhesz1.png" width="64" height="64" alt="Foto de Renan Hesz Filho" /><br /><sub><b>Renan<br />Filho</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="145" height="145"><a href="https://github.com/sofiaolivagoliva" title="Sofia Oliveira Gonçalves"><img src="https://github.com/sofiaolivagoliva.png" width="64" height="64" alt="Foto de Sofia Oliveira Gonçalves" /><br /><sub><b>Sofia<br />Gonçalves</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/freitasfany" title="Stéfany Maria Santana Freitas"><img src="https://github.com/freitasfany.png" width="64" height="64" alt="Foto de Stéfany Maria Santana Freitas" /><br /><sub><b>Stéfany<br />Freitas</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/Victor0Henrique" title="Victor Henrique Lima Andrade"><img src="https://github.com/Victor0Henrique.png" width="64" height="64" alt="Foto de Victor Henrique Lima Andrade" /><br /><sub><b>Victor<br />Andrade</b></sub></a></td>
+    <td align="center" width="145" height="145"><a href="https://github.com/wilgustavossilva" title="Wilson Gustavo de Sousa Silva"><img src="https://avatars.githubusercontent.com/u/320615708?v=4" width="64" height="64" alt="Foto de Wilson Gustavo de Sousa Silva" /><br /><sub><b>Wilson<br />Silva</b></sub></a></td>
   </tr>
 </table>
