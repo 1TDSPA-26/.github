@@ -81,7 +81,7 @@
 <table align="center" width="640">
   <tr>
     <td align="center" width="160" height="160"><a href="https://github.com/gabrielymoreira" title="Gabriely Santos Moreira"><img src="https://github.com/gabrielymoreira.png" width="64" height="64" alt="Foto de Gabriely Santos Moreira" /><br /><sub><b>Gabriely<br />Moreira</b></sub></a></td>
-    <td align="center" width="160" height="160"><a href="https://github.com/Luczin10" title="Lucas Gabriel"><img src="https://github.com/Luczin10.png" width="64" height="64" alt="Foto de Lucas Gabriel" /><br /><sub><b>Lucas<br />Gabriel</b></sub></a></td>
+    <td align="center" width="160" height="160"><a href="https://github.com/Luczin10" title="Lucas Gabriel"><img src="https://github.com/LucScomparin.png" width="64" height="64" alt="Foto de Lucas Gabriel" /><br /><sub><b>Lucas<br />Gabriel</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://github.com/redagnolo" title="Renato D’agnolo Rodrigues"><img src="https://github.com/redagnolo.png" width="64" height="64" alt="Foto de Renato D’agnolo Rodrigues" /><br /><sub><b>Renato<br />Rodrigues</b></sub></a></td>
     <td align="center" width="160" height="160"><a href="https://github.com/ryanjeimysson" title="Ryan Jeimysson Matos de Jesus"><img src="https://github.com/ryanjeimysson.png" width="64" height="64" alt="Foto de Ryan Jeimysson Matos de Jesus" /><br /><sub><b>Ryan<br />Jeimysson</b></sub></a></td>
   </tr>
